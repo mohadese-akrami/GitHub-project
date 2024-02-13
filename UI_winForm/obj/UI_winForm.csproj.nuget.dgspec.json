@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\UI_winForm\\UI_winForm.csproj": {}
+  },
+  "projects": {
+    "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\mohadese\\.nuget\\packages\\",
+        "outputPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mohadese\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\mohadese\\.nuget\\packages\\",
+        "outputPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mohadese\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\UI_winForm\\UI_winForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\UI_winForm\\UI_winForm.csproj",
+        "projectName": "UI_winForm",
+        "projectPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\UI_winForm\\UI_winForm.csproj",
+        "packagesPath": "C:\\Users\\mohadese\\.nuget\\packages\\",
+        "outputPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\UI_winForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mohadese\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\c#-phone\\07 PhooneBook   N-tier\\07-11 Edit Contact\\Src\\Phoonbook_N-tier\\BLL\\BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

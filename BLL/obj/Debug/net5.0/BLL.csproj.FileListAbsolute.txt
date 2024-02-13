@@ -1,0 +1,15 @@
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\bin\Debug\net5.0\BLL.dll
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\bin\Debug\net5.0\BLL.pdb
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\bin\Debug\net5.0\DAL.dll
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\bin\Debug\net5.0\DAL.pdb
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.dll
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\BLL.pdb
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\BLL\obj\Debug\net5.0\ref\BLL.dll

@@ -1,0 +1,15 @@
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\bin\Debug\net5.0\DAL.dll
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\bin\Debug\net5.0\DAL.pdb
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.dll
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.pdb
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\c#-phone\07 PhooneBook   N-tier\07-11 Edit Contact\Src\Phoonbook_N-tier\DAL\obj\Debug\net5.0\ref\DAL.dll
